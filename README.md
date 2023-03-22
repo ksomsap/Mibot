@@ -1,1 +1,2 @@
 # Mibot
+### Discord Bot สำหรับฟังเพลง
